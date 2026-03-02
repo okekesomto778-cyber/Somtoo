@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "joi": "^18.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okekesomto778-cyber/Somtoo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/okekesomto778-cyber/Somtoo/issues"
+  },
+  "homepage": "https://github.com/okekesomto778-cyber/Somtoo#readme"
 }
